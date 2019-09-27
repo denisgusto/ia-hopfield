@@ -1,1 +1,2 @@
-# ia-hopfield
+# Inteligência artificial
+Redes Neurais Artificiais utilizando Hopfield
