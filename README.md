@@ -1,2 +1,2 @@
 # Inteligência artificial
-Redes Neurais Artificiais utilizando Hopfield
+Testes de Redes Neurais Artificiais utilizando Hopfield.
